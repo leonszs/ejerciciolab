@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567485174 source:c:\users\tuki\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"OperacionesArismeticas.h"
+
+1567485174 c:\users\tuki\desktop\tp1\operacionesarismeticas.h
+	<stdio.h>
+
+1567485174 source:c:\users\tuki\desktop\tp1\operacionesarismeticas.c
+	"OperacionesArismeticas.h"
+
